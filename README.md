@@ -13,6 +13,6 @@ bool: IsGameTextShowingForPlayer(playerid) // Returns true if game text is being
 # Callbacks:
 
 ```cpp
-OnGameTextShow(playerid, type) - Called when game text is shown for the player.
-OnGameTextFadeOut(playerid, type) - Called when the game text fades out.
+OnGameTextShow(playerid, type) // Called when game text is shown for the player.
+OnGameTextFadeOut(playerid, type) // Called when the game text fades out.
 ```
