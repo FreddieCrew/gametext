@@ -1,0 +1,7 @@
+{
+	"user": "FreddieCrew",
+	"repo": "gametext",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	]
+}
