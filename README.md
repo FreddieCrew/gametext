@@ -16,3 +16,6 @@ bool: IsGameTextShowingForPlayer(playerid) // Returns true if game text is being
 OnGameTextShow(playerid, type) // Called when game text is shown for the player.
 OnGameTextFadeOut(playerid, type) // Called when the game text fades out.
 ```
+
+# Dependencies
+Requires [fader.inc](https://github.com/Agneese-Saini/SA-MP/blob/master/pawno/include/fader.inc).
